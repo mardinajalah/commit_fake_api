@@ -1,0 +1,29 @@
+{
+  "satuan": [
+    {
+      "id": "12345",
+      "satuan": "KG",
+      "aktif": "yes"
+    },
+    {
+      "id": "43256",
+      "satuan": "press",
+      "aktif": "yes"
+    },
+    {
+      "id": "67890",
+      "satuan": "bungkus",
+      "aktif": "yes"
+    },
+    {
+      "id": "2",
+      "satuan": "ball",
+      "aktif": "Yes"
+    },
+    {
+      "id": "00012",
+      "satuan": "bungkus",
+      "aktif": "No"
+    }
+  ]
+}
